@@ -1,0 +1,1 @@
+# obsidian-typing-package-registry
