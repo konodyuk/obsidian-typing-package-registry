@@ -1,0 +1,10 @@
+{
+  "$schema": "./schemae/registry.json",
+  "packages": [
+    {
+      "name": "table",
+      "repo": "konodyuk/obsidian-typing-official-packages"
+      "path": "table"
+    }
+  ]
+}
